@@ -89,7 +89,7 @@ public class PlayerController : MonoBehaviour
         x = startX;
         y = startY;
         transform.position = new Vector3(0, 0, transform.position.z);
-        theLevel.ResetScore();
+        theLevel.score = 0;
         colorLenght = 0;
         RemoveAllBody();
         theLevel.theFood.GetEat();
