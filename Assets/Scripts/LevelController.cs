@@ -89,4 +89,10 @@ public class LevelController : MonoBehaviour
     {
         GameOverScreen.SetActive(false);
     }
+
+    public void ResetScore()
+    {
+        score = 0;
+        UpdateScoreText(scoreText, false);
+    }
 }
