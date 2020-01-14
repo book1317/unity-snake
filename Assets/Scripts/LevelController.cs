@@ -77,7 +77,10 @@ public class LevelController : MonoBehaviour
     public void CheckHightScore()
     {
         if (score > hightScore)
+        {
+            hightScore = score;
             UpdateScoreText(hightScoreText, true);
+        }
     }
 
     public void GameOver()
