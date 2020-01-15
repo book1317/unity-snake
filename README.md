@@ -4,6 +4,7 @@ This is a challenge in creating games to improve my skills.
  ## Day7 : Snake
  
   ![GitHub Logo](/images/image1.png)
+  
 **Let's play : https://book1317.github.io/unity-snake/**
 
 ## Other Projects
