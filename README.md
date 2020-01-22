@@ -16,3 +16,5 @@ This is a challenge in creating games to improve my skills.
 * Day5 : <a href="https://github.com/book1317/unity-connect" target="_blank">**Connect**</a>
 * Day6 : <a href="https://github.com/book1317/unity-trexrun" target="_blank">**T-RexRun**</a>
 * Day7 : <a href="https://github.com/book1317/unity-snake" target="_blank">**Snake**</a>
+* Day8 : <a href="https://github.com/book1317/unity-numberpuzzle" target="_blank">**NumberPuzzle**</a>
+* Day9 : <a href="https://github.com/book1317/unity-checkers" target="_blank">**Checkers**</a>
